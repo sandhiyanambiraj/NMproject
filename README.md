@@ -10,7 +10,7 @@ Prerequisites Python 3.7+ SQLAlchemy
 
 Setup Instructions
 
-Clone the Repository Download or clone the Banking Application repository: git clone https://github.com/HemaHamsaveni/Bank.git
+Clone the Repository Download or clone the Banking Application repository: git clone https://github.com/Dharshini-Chinnaswamy/Cloud-hosted-banking-data-analytics-and-reporting-system-on-aws.git
 
 Navigate to the Project Directory cd Bank
 
